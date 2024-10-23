@@ -1,0 +1,1 @@
+This file is basically me learning data manipulation using python and Jupyter notebook. I hope many months to come I'll be able to look back at this and be proud of the progress I would have made then
